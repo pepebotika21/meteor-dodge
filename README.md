@@ -5,4 +5,5 @@ An initial, playable version is complete, though it doesn’t yet include levels
 
 I would appreciate any advice or suggestions regarding how it’s built, as well as how it could be improved and brought to completion.
 
+You can play here! https://www.lexaloffle.com/bbs/?pid=198679
 
